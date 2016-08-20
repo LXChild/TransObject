@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">DataTransmit2</string>
+    <string name="btn_text">skip</string>
+    <string name="TV_text">default</string>
+
+</resources>
